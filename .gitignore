@@ -1,0 +1,3 @@
+# 4K originals stay on this computer; the site only uses the web-size copies in web/
+/assets/mascot/*.png
+/assets/weather/scene.png
